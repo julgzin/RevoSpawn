@@ -1,0 +1,8 @@
+name: RevoSpawn
+version: '${project.version}'
+main: br.com.julg.RevoSpawn
+api-version: 1.19
+authors: [ julg ]
+commands:
+  spawn:
+
